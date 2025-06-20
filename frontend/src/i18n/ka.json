@@ -1,0 +1,131 @@
+{
+  "common": {
+    "loading": "იტვირთება...",
+    "error": "შეცდომა",
+    "success": "წარმატებული",
+    "save": "შენახვა",
+    "cancel": "გაუქმება",
+    "delete": "წაშლა",
+    "edit": "რედაქტირება",
+    "create": "შექმნა",
+    "search": "ძიება",
+    "close": "დახურვა",
+    "back": "უკან",
+    "next": "შემდეგი",
+    "submit": "გაგზავნა",
+    "allRightsReserved": "ყველა უფლება დაცულია",
+    "required": "სავალდებულო",
+    "optional": "არასავალდებულო",
+    "status": "სტატუსი",
+    "actions": "მოქმედებები"
+  },
+  "auth": {
+    "welcome": "მოგესალმებით Buildline-ში",
+    "description": "მშენებლობის პროექტების მართვის პორტალი",
+    "login": "შესვლა",
+    "logout": "გასვლა",
+    "register": "რეგისტრაცია",
+    "email": "ელ-ფოსტა",
+    "password": "პაროლი",
+    "confirmPassword": "გაიმეორეთ პაროლი",
+    "forgotPassword": "დაგავიწყდათ პაროლი?",
+    "rememberMe": "დამიმახსოვრე",
+    "noAccount": "არ გაქვთ ანგარიში?",
+    "hasAccount": "უკვე გაქვთ ანგარიში?",
+    "resetPassword": "პაროლის აღდგენა",
+    "changePassword": "პაროლის შეცვლა",
+    "oldPassword": "ძველი პაროლი",
+    "newPassword": "ახალი პაროლი",
+    "passwordRequirements": "პაროლი უნდა შეიცავდეს მინიმუმ 8 სიმბოლოს"
+  },
+  "navigation": {
+    "dashboard": "მთავარი",
+    "projects": "პროექტები",
+    "wiki": "ვიკი",
+    "calendar": "კალენდარი",
+    "contact": "კონტაქტი",
+    "cadastralMap": "საკადასტრო რუკა"
+  },
+  "navbar": {
+    "openMenu": "მენიუს გახსნა",
+    "notifications": "შეტყობინებები",
+    "userMenu": "მომხმარებლის მენიუ",
+    "profile": "პროფილი",
+    "settings": "პარამეტრები",
+    "logout": "გასვლა"
+  },
+  "notifications": {
+    "title": "შეტყობინებები",
+    "count": "{{count}} შეტყობინება",
+    "empty": "შეტყობინებები არ არის",
+    "noNotifications": "თქვენ არ გაქვთ შეტყობინებები",
+    "clearAll": "ყველას წაშლა",
+    "markAllRead": "ყველას წაკითხულად მონიშვნა"
+  },
+  "roles": {
+    "admin": "ადმინისტრატორი",
+    "coworker": "თანამშრომელი",
+    "customer": "კლიენტი"
+  },
+  "projects": {
+    "title": "პროექტები",
+    "create": "პროექტის შექმნა",
+    "edit": "პროექტის რედაქტირება",
+    "delete": "პროექტის წაშლა",
+    "details": "პროექტის დეტალები",
+    "status": {
+      "planning": "დაგეგმვის ეტაპზე",
+      "in_progress": "მიმდინარე",
+      "on_hold": "შეჩერებული",
+      "completed": "დასრულებული",
+      "cancelled": "გაუქმებული"
+    },
+    "stages": {
+      "pre_construction": "წინასამშენებლო",
+      "foundation": "საძირკველი",
+      "structural": "კონსტრუქციული",
+      "interior": "შიდა სამუშაოები",
+      "finishing": "მოპირკეთება",
+      "completed": "დასრულებული"
+    }
+  },
+  "wiki": {
+    "title": "ვიკი",
+    "create": "გვერდის შექმნა",
+    "edit": "გვერდის რედაქტირება",
+    "delete": "გვერდის წაშლა",
+    "history": "გვერდის ისტორია",
+    "attachments": "დანართები",
+    "addAttachment": "დანართის დამატება"
+  },
+  "calendar": {
+    "title": "კალენდარი",
+    "createEvent": "ღონისძიების შექმნა",
+    "editEvent": "ღონისძიების რედაქტირება",
+    "deleteEvent": "ღონისძიების წაშლა",
+    "today": "დღეს",
+    "month": "თვე",
+    "week": "კვირა",
+    "day": "დღე",
+    "allDay": "მთელი დღე"
+  },
+  "contact": {
+    "title": "კონტაქტი",
+    "sendMessage": "შეტყობინების გაგზავნა",
+    "name": "სახელი",
+    "email": "ელ-ფოსტა",
+    "subject": "თემა",
+    "message": "შეტყობინება"
+  },
+  "errors": {
+    "required": "ეს ველი სავალდებულოა",
+    "invalidEmail": "არასწორი ელ-ფოსტის მისამართი",
+    "passwordMismatch": "პაროლები არ ემთხვევა",
+    "minLength": "უნდა შეიცავდეს მინიმუმ {{count}} სიმბოლოს",
+    "maxLength": "უნდა შეიცავდეს მაქსიმუმ {{count}} სიმბოლოს",
+    "unauthorized": "არაავტორიზებული წვდომა",
+    "forbidden": "წვდომა აკრძალულია",
+    "notFound": "ვერ მოიძებნა",
+    "serverError": "სერვერის შეცდომა"
+  }
+}
