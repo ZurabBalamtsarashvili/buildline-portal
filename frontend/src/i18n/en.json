@@ -1,0 +1,131 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "allRightsReserved": "All rights reserved",
+    "required": "Required",
+    "optional": "Optional",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "auth": {
+    "welcome": "Welcome to Buildline",
+    "description": "Construction Project Management Portal",
+    "login": "Log in",
+    "logout": "Log out",
+    "register": "Register",
+    "email": "Email address",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "forgotPassword": "Forgot password?",
+    "rememberMe": "Remember me",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "resetPassword": "Reset password",
+    "changePassword": "Change password",
+    "oldPassword": "Current password",
+    "newPassword": "New password",
+    "passwordRequirements": "Password must be at least 8 characters"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "wiki": "Wiki",
+    "calendar": "Calendar",
+    "contact": "Contact",
+    "cadastralMap": "Cadastral Map"
+  },
+  "navbar": {
+    "openMenu": "Open menu",
+    "notifications": "Notifications",
+    "userMenu": "User menu",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "count": "{{count}} notifications",
+    "empty": "No notifications",
+    "noNotifications": "You have no notifications",
+    "clearAll": "Clear all",
+    "markAllRead": "Mark all as read"
+  },
+  "roles": {
+    "admin": "Administrator",
+    "coworker": "Coworker",
+    "customer": "Customer"
+  },
+  "projects": {
+    "title": "Projects",
+    "create": "Create Project",
+    "edit": "Edit Project",
+    "delete": "Delete Project",
+    "details": "Project Details",
+    "status": {
+      "planning": "Planning",
+      "in_progress": "In Progress",
+      "on_hold": "On Hold",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "stages": {
+      "pre_construction": "Pre-construction",
+      "foundation": "Foundation",
+      "structural": "Structural",
+      "interior": "Interior",
+      "finishing": "Finishing",
+      "completed": "Completed"
+    }
+  },
+  "wiki": {
+    "title": "Wiki",
+    "create": "Create Page",
+    "edit": "Edit Page",
+    "delete": "Delete Page",
+    "history": "Page History",
+    "attachments": "Attachments",
+    "addAttachment": "Add Attachment"
+  },
+  "calendar": {
+    "title": "Calendar",
+    "createEvent": "Create Event",
+    "editEvent": "Edit Event",
+    "deleteEvent": "Delete Event",
+    "today": "Today",
+    "month": "Month",
+    "week": "Week",
+    "day": "Day",
+    "allDay": "All Day"
+  },
+  "contact": {
+    "title": "Contact",
+    "sendMessage": "Send Message",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "passwordMismatch": "Passwords do not match",
+    "minLength": "Must be at least {{count}} characters",
+    "maxLength": "Must be at most {{count}} characters",
+    "unauthorized": "Unauthorized access",
+    "forbidden": "Access forbidden",
+    "notFound": "Not found",
+    "serverError": "Server error occurred"
+  }
+}
